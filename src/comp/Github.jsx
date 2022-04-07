@@ -27,7 +27,7 @@ const imgs = [
     name: "Todo List ui",
     url: "/img/todoui.png",
     tech: "React.js, Tailwindcss, React-router",
-    demo: "TodoUI.netlify.app"
+    demo: "TodoAppUI.netlify.app"
   },
   {
     name: "Anime Quote Generator",
@@ -96,7 +96,7 @@ const Art = () => {
   return (
     <Box
       sx={{
-        mt: 2,
+        m: 2,
       }}
     >
       <Grid container spacing={2}>

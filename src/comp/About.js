@@ -23,6 +23,10 @@ const About = () => {
       <Box
         sx={{
           textAlign: "center",
+          display: "flex",
+          flexDirection: "column",
+          alignItems: "center",
+          justifyContent: "center",
           py: 4,
           minHeight: "100vh"
         }}
