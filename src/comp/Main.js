@@ -40,7 +40,7 @@ const Main = () => {
             top: "-45px"
           }}
         >
-          <Spline scene="https://draft.spline.design/JgCJmKLUbq9gmGUv/scene.spline" />
+          <Spline scene="https://draft.spline.design/fRIqVzHpM7oZnx64/scene.spline" />
         </Box>
         <Box
           sx={{
