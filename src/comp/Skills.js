@@ -151,6 +151,8 @@ const Skills = () => {
         <Box
           sx={{
             textAlign: { sm: "center" },
+            width: "100vw",
+            maxWidth: "700px"
           }}
         >
           <Typography
