@@ -61,6 +61,7 @@ const SkillCard = skills.map((skills) => {
           flexDirection: "column",
           p: 1,
           flexGrow: 1,
+          mx:1
         }}
       >
         <Box
