@@ -33,7 +33,7 @@ const NavBar = () => {
           <Box
             sx={{
               mr: { sm: 4 },
-              display: { xs: "none", md: "block" },
+              display: { xs: "none", sm: "block" },
             }}
           >
             <Link
