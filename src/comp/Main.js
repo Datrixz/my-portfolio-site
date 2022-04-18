@@ -37,10 +37,15 @@ const Main = () => {
         <Box
           sx={{
             position: "absolute",
-            top: "-45px"
+            top: "-45px",
+            width: "100vw",
+            overflow: "hidden"
           }}
         >
-          <Spline scene="https://draft.spline.design/JgCJmKLUbq9gmGUv/scene.spline" />
+          <Spline sx={{
+            width: "100%",
+            height : "auto"
+          }} scene="https://draft.spline.design/JgCJmKLUbq9gmGUv/scene.spline" />
         </Box>
         <Box
           sx={{
