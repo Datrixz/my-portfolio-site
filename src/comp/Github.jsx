@@ -43,7 +43,7 @@ const imgs = [
   },
   {
     name: "Character Counter",
-    url: "/img/hypep1.png",
+    url: "/img/hypep11.png",
     tech: "React.js, Tailwindcss",
     demo: "hype-prob1.vercel.app"
   },
