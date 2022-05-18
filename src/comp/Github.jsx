@@ -6,6 +6,12 @@ import { GitHub } from "@mui/icons-material";
 
 const imgs = [
   {
+    name: "TV Shows info API",
+    url: "/img/tvmaze.png",
+    tech: "React.js, tailwindcss, React-router, Axios, MazeAPI",
+    demo: "quad-tv.vercel.app"
+  },
+  {
     name: "E-Commerce ui",
     url: "/img/fashan.png",
     tech: "React.js, Styled Components, React-router",
@@ -35,6 +41,19 @@ const imgs = [
     tech: "React.js, mui, React-router, Axios",
     demo: "AnimQ.netlify.app"
   },
+  {
+    name: "Character Counter",
+    url: "/img/hypep1.png",
+    tech: "React.js, Tailwindcss",
+    demo: "hype-prob1.vercel.app"
+  },
+  {
+    name: "Anime Quote Generator",
+    url: "/img/hypep2.png",
+    tech: "React.js, Tailwindcss, React-router, Axios",
+    demo: "hype-prob2.vercel.app"
+  },
+
 ];
 
 const img = imgs.map((img) => {
