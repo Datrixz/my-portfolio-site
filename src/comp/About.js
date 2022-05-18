@@ -65,8 +65,8 @@ const About = () => {
               color="text.secondary"
               sx={{ mt: 2, textAlign: { sm: "left" } }}
             >
-              I am a Web Developer. Currently I'm Under
-              Graduating in Computer Science Field. I Mostly like to do frontend stuffs in React.js and using various libraries. I also have some basic knowledge of backend which involve Node.js. And some apis to fetch data like Axios.
+              I am a passionate Web Developer from India. Currently I'm Under
+              Graduating in Computer Science Field. I Mostly like to work at frontend stuffs in React.js and using various libraries including Tailwindcss, MaterialUI, React-Router, Vite, Framer Motion etc. And REST api's to fetch data like Axios. I also have some knowledge of backend which involve Node.js / Express.js. 
             </Typography>
           </Box>
         </Box>
