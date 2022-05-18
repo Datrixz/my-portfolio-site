@@ -8,7 +8,7 @@ const imgs = [
   {
     name: "TV Shows info API",
     url: "/img/tvmaze.png",
-    tech: "React.js, tailwindcss, React-router, Axios, MazeAPI",
+    tech: "React.js, Tailwindcss, React-router, Axios, MazeAPI",
     demo: "quad-tv.vercel.app"
   },
   {
@@ -38,7 +38,7 @@ const imgs = [
   {
     name: "Anime Quote Generator",
     url: "/img/animq.png",
-    tech: "React.js, mui, React-router, Axios",
+    tech: "React.js, MUI, React-router, Axios",
     demo: "AnimQ.netlify.app"
   },
   {
@@ -48,7 +48,7 @@ const imgs = [
     demo: "hype-prob1.vercel.app"
   },
   {
-    name: "Anime Quote Generator",
+    name: "Starwars Character Generator",
     url: "/img/hypep2.png",
     tech: "React.js, Tailwindcss, React-router, Axios",
     demo: "hype-prob2.vercel.app"
