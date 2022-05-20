@@ -20,8 +20,8 @@ const imgs = [
   {
     name: "Blog Website with CMS",
     url: "/img/blogv.png",
-    tech: "React.js, Sanity.io, MUI, React-router",
-    demo: "BlogV.netlify.app"
+    tech: "React.js, Sanity.io, DaisyUI, React-router",
+    demo: "Blogv17.vercel.app"
   },
   {
     name: "Dairy Webapp ui mockup",
